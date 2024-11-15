@@ -9,6 +9,7 @@ Welcome to the eleventh challenge in the Node.js practical problem series! 🚀 
 Create a simple **Express.js server** that:  
 
 1. Responds with **"Hello, Express!"** when the root URL (`/`) is accessed.  
+
 2. Uses Node.js to serve HTTP requests efficiently.  
 
 ---
@@ -16,7 +17,9 @@ Create a simple **Express.js server** that:
 ## 🎯 Learning Goals  
 
 - Understand how to install and set up **Express.js**, a popular Node.js framework.  
+
 - Learn to define routes and handle HTTP requests using Express.js.  
+
 - Explore the basics of Express middleware.  
 
 ---
@@ -32,6 +35,8 @@ Your project folder should look like this:
 └── package.json        # Project configuration file  
 ```
 
+---
+
 ## 🌟 Features to Enhance
 
 Once you’ve completed the basics, try adding:
@@ -42,6 +47,8 @@ Once you’ve completed the basics, try adding:
 
 - Dynamic Responses: Respond with dynamic content based on query parameters or POST data.
 -
+
+---
 
 ## 🧠 What You’ll Learn
 
